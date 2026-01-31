@@ -1,0 +1,17 @@
+{
+  "name": "roulette-llm-chain",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "node": "hardhat node",
+    "compile": "hardhat compile",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.4",
+    "dotenv": "^16.4.5",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "ethers": "^6.13.2"
+  }
+}
