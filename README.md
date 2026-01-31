@@ -5,7 +5,7 @@
 
 >  “WIT OR DIE”
 
-一款结合 **LLM（大语言模型）** + **Web3 博弈** + **左轮手枪生存机制** 的英语学习游戏。（后续考虑增加其他语言）
+一款结合 **LLM（大语言模型）** + **Web3 博弈** + **左轮手枪生存机制** 的英语学习游戏。
 
 ## 📸 视频演示：（这里应该是视频上传到网盘，网盘分享的连接）
 
@@ -26,15 +26,15 @@
 
 + 最终幸存者独享奖池，并获得 NFT 成就。
 
-![image-20260131194747590](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194747590.png)
+## 📸 精彩截图
 
-![image-20260131194847072](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194847072.png)
+| 主页面 | 赢家视角 |
+|--------------|------------|
+| ![image-20260131194747590](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194747590.png) | ![image-20260131194847072](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194847072.png)|
 
-![image-20260131194436644](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194436644.png)
-
-![image-20260131195515561](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131195515561.png)
-
-
+| 死亡判定 | 个人总结 |
+|--------------|------------|
+| ![image-20260131194436644](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194436644.png)|![image-20260131195515561](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131195515561.png)|
 
 ## ✨ 游戏特色
 
