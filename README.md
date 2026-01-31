@@ -182,7 +182,7 @@ MIT License
 + [中二大魔王](https://github.com/doctorzero666)
 + [Jade](https://github.com/JadeTwinkle)
 + [芋头](https://github.com/yuanxuejpjp)
-+ [大米](https://github.com/zhaojinxiu6)
++ [大米不辣.](https://github.com/zhaojinxiu6)
 
 
 
