@@ -9,20 +9,32 @@
 
 ## 📸 视频演示：（这里应该是视频上传到网盘，网盘分享的连接）
 
-1. 启动后端 WebSocket 服务。
-2. 启动前端应用。
-3. 进入游戏大厅 → 选择「Start Match」。
+1. 开始游戏 → 选择角色。
+2. 进入游戏大厅 → 选择「连接钱包」。
+3. 回答正确 → 获得最终胜利 → 对局结算。
 4. **故意答错** → 触发遮罩层（overlay）→ 进入淘汰页面。
 
 ## 🖥️ 游戏介绍
 
-“鱿鱼游戏”版的背单词。系统由 AI 实时生成完全随机的题目
++ “鱿鱼游戏”版的背单词。系统由 AI 实时生成完全随机的题目
 
-玩家支付少量入场费入场，进行异步单词拼写竞速。
++ 玩家支付少量入场费入场，进行异步单词拼写竞速。
 
-答错触发“左轮手枪”概率淘汰机制。即使答错也可能有概率幸存，增加博弈乐趣
++ 答错触发“左轮手枪”概率淘汰机制，即使答错也可能有概率幸存，增加博弈乐趣。
 
-最终幸存者独享奖池，并获得 NFT 成就。
++ 回答错误也有 NFT 参与奖。
+
++ 最终幸存者独享奖池，并获得 NFT 成就。
+
+![image-20260131194747590](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194747590.png)
+
+![image-20260131194847072](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194847072.png)
+
+![image-20260131194436644](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131194436644.png)
+
+![image-20260131195515561](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131195515561.png)
+
+
 
 ## ✨ 游戏特色
 
