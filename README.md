@@ -50,7 +50,6 @@
 - 赢家获得质押奖励
 - 部分手续费作为系统维护
 
-  - 
 ##  🔗 业务流程图 
 
 ###  1. 资产准入与匹配
@@ -223,7 +222,6 @@ npm run dev
 MIT License
 
 
-
 ## 👥 Team Members (项目成员)
 
 本项目由四位 **Web3 初学者** 共同打造。在黑客松的数个深夜里，我们并肩作战，从零开始探索协议与链上交互。克服了重重技术壁垒，最终在截止前的最后一刻完成了这个作品。
@@ -234,6 +232,7 @@ MIT License
 | **中二大魔王** | 💻 Frontend Dev | 前端页面交互逻辑，链上数据对接 | [@doctorzero666](https://github.com/doctorzero666) |
 | **芋头** | 🎨 UI & Presenter | UI/UX 界面设计，PPT 制作与路演主讲 | [@yuanxuejpjp](https://github.com/yuanxuejpjp) |
 | **大米不辣.** | 📜 Contract & Docs | 智能合约开发，项目资料收集与文档整理 | [@zhaojinxiu6](https://github.com/zhaojinxiu6) |
+
 ## 🤝 项目共建
 
 欢迎提交 PR 和 Issue！
