@@ -8,8 +8,13 @@
 一款结合 **LLM（大语言模型）** + **Web3 博弈** + **左轮手枪生存机制** 的英语学习游戏。
 
 ## 📸 视频演示：
-视频播放地址：[[WID OR DIE]](https://www.bilibili.com/video/BV1Ep6tBkEvr/...)
-![wit or die 视频2-封面](https://github.com/user-attachments/assets/d10e09ac-6c52-47e0-a2b0-39d7a0cec6e9)
+
+| 视频播放地址 | 视频梗概 |
+|--------------|--------------|
+| [[WID OR DIE]](https://www.bilibili.com/video/BV1Ep6tBkEvr/...) | |
+| ![wit or die 视频2-封面](https://github.com/user-attachments/assets/14e550b9-0b87-43e2-9f7e-f45d142ae677) | 开始游戏 → 选择角色→ 进入游戏大厅 → 选择「连接钱包」→ 回答正确 → 获得最终胜利 → 对局结算。→ **故意答错** → 触发遮罩层（overlay）→ 进入淘汰页面。 |
+
+
 1. 开始游戏 → 选择角色。
 2. 进入游戏大厅 → 选择「连接钱包」。
 
