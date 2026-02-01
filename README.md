@@ -1,5 +1,20 @@
 # README
 
+<details>
+<summary><strong>📖 目录导航</strong></summary>
+
+- [🎮 游戏介绍](#️-游戏介绍)
+- [✨ 游戏特色](#-游戏特色)
+- [💰 商业模式](#-商业模式)
+- [🔗 业务流程图](#-业务流程图)
+- [🛠️ 技术栈](#️-技术栈)
+- [📁 项目结构](#-项目结构)
+- [🚀 快速开始](#-快速开始)
+- [🗺️ 未来路径](#️-未来路径)
+- [👥 Team Members](#-team-members-项目成员)
+
+</details>
+
 ![image-20260131113216036](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131113216036.png)
 
 >  “WIT OR DIE”
