@@ -1,4 +1,3 @@
-<img width="1316" height="986" alt="image" src="https://github.com/user-attachments/assets/5fec5c2d-8d28-4744-9086-eee7dc70a66f" />
 # README
 
 ![image-20260131113216036](https://raw.githubusercontent.com/zhaojinxiu6/images/master/image-20260131113216036.png)
