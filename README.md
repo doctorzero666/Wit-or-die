@@ -8,7 +8,13 @@
 
 一款结合 **LLM（大语言模型）** + **Web3 博弈** + **左轮手枪生存机制** 的大逃杀英语学习游戏。
 
-
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=next.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=fff)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.20-363636?logo=solidity&logoColor=fff)
+![Hardhat](https://img.shields.io/badge/Hardhat-local-F9D72D)
 
 ## 📸 视频演示：
 
