@@ -15,21 +15,6 @@
 | [[WID OR DIE]](https://www.bilibili.com/video/BV1fr64B6Ekg/?share_source=copy_web&vd_source=58d42657ca98be5b02d6bf1322b54890) | |
 | ![wit or die 视频2-封面](https://github.com/user-attachments/assets/14e550b9-0b87-43e2-9f7e-f45d142ae677) | 开始游戏 → 选择角色→ 进入游戏大厅 → 选择「连接钱包」→ 回答正确 → 获得最终胜利 → 对局结算。→ **故意答错** → 触发遮罩层（overlay）→ 进入淘汰页面。 |
 
-<details>
-<summary><strong>📖 目录导航</strong></summary>
-
-- [🎮 游戏介绍](#️-游戏介绍)
-- [✨ 游戏特色](#-游戏特色)
-- [💰 商业模式](#-商业模式)
-- [🔗 业务流程图](#-业务流程图)
-- [🛠️ 技术栈](#️-技术栈)
-- [📁 项目结构](#-项目结构)
-- [🚀 快速开始](#-快速开始)
-- [🗺️ 未来路径](#️-未来路径)
-- [👥 Team Members](#-team-members-项目成员)
-
-</details>
-
 ## 🖥️ 游戏介绍
 
 + “鱿鱼游戏”版的背单词。系统由 AI 实时生成完全随机的题目
