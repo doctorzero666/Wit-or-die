@@ -49,12 +49,7 @@
 - 每局小额参与费用
 - 赢家获得质押奖励
 - 部分手续费作为系统维护
-- 未来：
-  - 更多的语言or学科
-  - 自定义人数及单局价格
-  - 剧情 + 晋级结合模式
-  - 不同人物属性
-  - 赛前竞猜
+
   - 
 ##  🔗 业务流程图 
 
@@ -173,7 +168,6 @@ cd chain
 npm install
 cd ..
 ```
-
 ### 配置环境变量
 
 ```bash
@@ -181,23 +175,19 @@ cd ..
 # 在 backend 目录下创建 .env 并写入你的 OpenAI Key
 OPENAI_API_KEY=your_openai_api_key
 ```
-
 ### 启动本地链（hardhat）
 
 ```bash
 cd chain
 npx hardhat node
 ```
-
 ### 部署合约到本地链
 
 ```bash
 cd chain
 npx hardhat run scripts/deploy.js --network localhost
 ```
-
 成功后会在终端输出合约地址（如需前端使用，请按项目提示写入对应配置）。
-
 ### 启动后端
 
 ```bash
@@ -205,18 +195,27 @@ cd backend
 source .venv/bin/activate
 uvicorn app.main:app --reload --port 8000
 ```
-
 ### 启动前端
 
 ```bash
 cd frontend
 npm run dev
 ```
-
 ### 访问应用
 
 **打开浏览器访问 `http://localhost:3000` 开始游戏。**
 
+
+
+## 🗺️ 未来路径
+
+| 阶段 | 功能模块 | 详细描述 |
+| :--- | :--- | :--- |
+| **Expansion** | 🌐 **学科宇宙** | 拓展至 **编程 (Coding)**、**数学**、**多语言** 等赛道，万物皆可“对赌”。 |
+| **Freedom** | ⚙️ **自定义房间** | 支持用户设定 **入场金额 (Stake)** 及 **人数 (2-100人)**，支持 1v1 死斗模式。 |
+| **RPG** | 📖 **剧情/排位** | 引入赛季（Seasons）与晋级体系，结合 RPG 剧情，通过胜场提升段位。 |
+| **Strategy** | 🦸 **角色技能** | 赋予 NFT 实际效用，如 *"Second Chance" (复活一次)* 或 *"Time Stop" (延时)*。 |
+| **SocialFi** | 🎲 **赛前竞猜** | 允许旁观者 (Spectators) 对选手进行下注，构建基于知识竞技的预测市场。 |
 
 
 ## 📄 开源协议
@@ -225,19 +224,16 @@ MIT License
 
 
 
-## 👥 项目成员
+## 👥 Team Members (项目成员)
 
-本项目由四位 Web3 初学者共同打造。在黑客松的数个深夜里，我们并肩作战，从零开始探索协议与链上交互。克服了重重技术壁垒，最终在截止前的最后一刻完成了这个作品。
+本项目由四位 **Web3 初学者** 共同打造。在黑客松的数个深夜里，我们并肩作战，从零开始探索协议与链上交互。克服了重重技术壁垒，最终在截止前的最后一刻完成了这个作品。
 
-特别感谢每一位成员的坚持与付出：
-
-+ [中二大魔王](https://github.com/doctorzero666)
-+ [Jade](https://github.com/JadeTwinkle)
-+ [芋头](https://github.com/yuanxuejpjp)
-+ [大米不辣.](https://github.com/zhaojinxiu6)
-
-
-
+| 成员  | 角色 | 主要职责 | GitHub |
+| :--- | :--- | :--- | :--- |
+| **Jade** | 🎬 PM & Video | 项目统筹管理，演示视频剪辑与制作 | [@JadeTwinkle](https://github.com/JadeTwinkle) |
+| **中二大魔王** | 💻 Frontend Dev | 前端页面交互逻辑，链上数据对接 | [@doctorzero666](https://github.com/doctorzero666) |
+| **芋头** | 🎨 UI & Presenter | UI/UX 界面设计，PPT 制作与路演主讲 | [@yuanxuejpjp](https://github.com/yuanxuejpjp) |
+| **大米不辣.** | 📜 Contract & Docs | 智能合约开发，项目资料收集与文档整理 | [@zhaojinxiu6](https://github.com/zhaojinxiu6) |
 ## 🤝 项目共建
 
 欢迎提交 PR 和 Issue！
