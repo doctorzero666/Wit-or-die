@@ -35,6 +35,8 @@
 
 + 最终幸存者独享奖池，并获得 NFT 成就。
 
+详情请下载查看[Wie to die.pdf](https://github.com/doctorzero666/Wit-or-die/blob/main/Wit%20or%20die.pdf)
+ 
 ## 📸 精彩截图
 
 | 主页面 | 赢家视角 |
