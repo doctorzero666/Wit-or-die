@@ -7,8 +7,7 @@
 
 一款结合 **LLM（大语言模型）** + **Web3 博弈** + **左轮手枪生存机制** 的英语学习游戏。
 
-## 📸 视频演示：（链接: https://pan.baidu.com/s/1AJu0VHF6g5FLIEbNy8zX9A?pwd=vyb8 提取码: vyb8 
---来自百度网盘超级会员v8的分享）
+## 📸 视频演示：（链接: https://pan.baidu.com/s/1AJu0VHF6g5FLIEbNy8zX9A?pwd=vyb8）
 
 1. 开始游戏 → 选择角色。
 2. 进入游戏大厅 → 选择「连接钱包」。
