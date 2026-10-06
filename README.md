@@ -269,9 +269,9 @@ MIT License
 | 成员  | 角色 | 主要职责 | GitHub |
 | :--- | :--- | :--- | :--- |
 | **Jade** | 🎬 PM & Video | 项目统筹管理，演示视频剪辑与制作 | [@JadeTwinkle](https://github.com/JadeTwinkle) |
-| **中二大魔王** | 💻 Full-stack Dev | 前端页面交互逻辑，FastAPI 对局服务端，链上数据对接 | [@doctorzero666](https://github.com/doctorzero666) |
+| **中二大魔王** | 💻 Full-stack Dev | 前端页面交互逻辑，FastAPI 对局服务端，智能合约与链上数据对接 | [@doctorzero666](https://github.com/doctorzero666) |
 | **芋头** | 🎨 UI & Presenter | UI/UX 界面设计，PPT 制作与路演主讲 | [@yuanxuejpjp](https://github.com/yuanxuejpjp) |
-| **大米不辣.** | 📜 Contract & Docs | 智能合约开发，项目资料收集与文档整理 | [@zhaojinxiu6](https://github.com/zhaojinxiu6) |
+| **大米不辣.** | 📜 Research & Docs | 项目资料收集与文档整理 | [@zhaojinxiu6](https://github.com/zhaojinxiu6) |
 
 ## 🤝 项目共建
 
