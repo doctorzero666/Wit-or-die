@@ -250,7 +250,7 @@ Built by four **Web3 beginners**. Over several late nights of the hackathon we w
 | Member | Role | Responsibilities | GitHub |
 | :--- | :--- | :--- | :--- |
 | **Jade** | 🎬 PM & Video | Project coordination, demo video editing and production | [@JadeTwinkle](https://github.com/JadeTwinkle) |
-| **中二大魔王** | 💻 Frontend Dev | Frontend pages and interaction logic, on-chain data integration | [@doctorzero666](https://github.com/doctorzero666) |
+| **中二大魔王** | 💻 Full-stack Dev | Frontend pages and interaction logic, FastAPI game server, on-chain data integration | [@doctorzero666](https://github.com/doctorzero666) |
 | **芋头** | 🎨 UI & Presenter | UI/UX design, slide deck, pitch presentation | [@yuanxuejpjp](https://github.com/yuanxuejpjp) |
 | **大米不辣.** | 📜 Contract & Docs | Smart contract development, research and documentation | [@zhaojinxiu6](https://github.com/zhaojinxiu6) |
 
